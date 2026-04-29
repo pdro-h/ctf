@@ -1,5 +1,5 @@
 # Pickle Rick - TryHackMe
 
-**Category: Web**
+**Category: Web**  
 **Difficulty: Easy**
 
