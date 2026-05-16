@@ -1,5 +1,7 @@
 # Principal
 
+**Difficulty: Medium**
+
 ```
 IP: 10.129.244.220
 ```
